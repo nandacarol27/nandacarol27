@@ -1,4 +1,2 @@
-# about me 
-- 👋 Hi, my name is nanda caroline
-- 👀 I’m interested in finish the alura curses
-- 🌱 I’m currently learning how to use the github program
+# 😄
+![Isso é uma imagem](https://i0.wp.com/files.agro20.com.br/uploads/2019/05/porco-02.jpg?resize=600%2C338&ssl=1)
