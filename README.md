@@ -1,4 +1,6 @@
-## Grande
+# Grande Biografia
+## quem sou eu?
+- linda icone brasileiro meu nome é nandacarol (na internet) *pesquisar imagem de uma gostoSA*
 - 27
 # 😄
 meu porco
